@@ -5,8 +5,8 @@
 %global crate serde-pickle
 
 Name:           rust-%{crate}
-Version:        0.5.1
-Release:        2%{?dist}
+Version:        1.2.0
+Release:        1%{?dist}
 Summary:        Serde-based serialization library for Python's pickle format
 
 # Upstream license specification: MIT/Apache-2.0
